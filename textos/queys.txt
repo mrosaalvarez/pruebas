@@ -1,2 +1,5 @@
 select * from nbdimoco
 select * from nbdititmom
+------
+select * from nbdirolmom
+select * from nbdidom
