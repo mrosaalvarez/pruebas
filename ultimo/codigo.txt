@@ -1,1 +1,3 @@
 créate table
+---
+delete from nbdititmom
