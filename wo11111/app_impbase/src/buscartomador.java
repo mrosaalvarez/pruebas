@@ -1,1 +1,2 @@
 buscar tomador
+  actualizar tomador
